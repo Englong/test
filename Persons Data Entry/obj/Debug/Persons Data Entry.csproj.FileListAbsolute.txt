@@ -1,0 +1,18 @@
+C:\Users\PC-33\Desktop\Persons Data Entry\Persons Data Entry\bin\Debug\Persons Data Entry.exe.config
+C:\Users\PC-33\Desktop\Persons Data Entry\Persons Data Entry\bin\Debug\Persons Data Entry.exe
+C:\Users\PC-33\Desktop\Persons Data Entry\Persons Data Entry\bin\Debug\Persons Data Entry.pdb
+C:\Users\PC-33\Desktop\Persons Data Entry\Persons Data Entry\obj\Debug\Persons Data Entry.csprojResolveAssemblyReference.cache
+C:\Users\PC-33\Desktop\Persons Data Entry\Persons Data Entry\obj\Debug\Persons_Data_Entry.Form1.resources
+C:\Users\PC-33\Desktop\Persons Data Entry\Persons Data Entry\obj\Debug\Persons_Data_Entry.Properties.Resources.resources
+C:\Users\PC-33\Desktop\Persons Data Entry\Persons Data Entry\obj\Debug\Persons Data Entry.csproj.GenerateResource.Cache
+C:\Users\PC-33\Desktop\Persons Data Entry\Persons Data Entry\obj\Debug\Persons Data Entry.exe
+C:\Users\PC-33\Desktop\Persons Data Entry\Persons Data Entry\obj\Debug\Persons Data Entry.pdb
+C:\Users\Englong\Desktop\Persons Data Entry\Persons Data Entry\bin\Debug\Persons Data Entry.exe.config
+C:\Users\Englong\Desktop\Persons Data Entry\Persons Data Entry\obj\Debug\Persons Data Entry.exe
+C:\Users\Englong\Desktop\Persons Data Entry\Persons Data Entry\obj\Debug\Persons Data Entry.pdb
+C:\Users\Englong\Desktop\Persons Data Entry\Persons Data Entry\bin\Debug\Persons Data Entry.exe
+C:\Users\Englong\Desktop\Persons Data Entry\Persons Data Entry\bin\Debug\Persons Data Entry.pdb
+C:\Users\Englong\Desktop\Persons Data Entry\Persons Data Entry\obj\Debug\Persons Data Entry.csprojResolveAssemblyReference.cache
+C:\Users\Englong\Desktop\Persons Data Entry\Persons Data Entry\obj\Debug\Persons_Data_Entry.Form1.resources
+C:\Users\Englong\Desktop\Persons Data Entry\Persons Data Entry\obj\Debug\Persons_Data_Entry.Properties.Resources.resources
+C:\Users\Englong\Desktop\Persons Data Entry\Persons Data Entry\obj\Debug\Persons Data Entry.csproj.GenerateResource.Cache
